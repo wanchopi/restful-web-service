@@ -3,7 +3,7 @@
 ### Example of a RESTful Web Service
 
 ##### In this project, we will learn how to develop a RETSful Web Service using Spring MVC, Spring boot 2, JSP, Hibernate 5, 
-##### JPA, Maven, and MySQL database.
+JPA, Maven, and MySQL database.
 
 ### Tools and Technologies Used
 
